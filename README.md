@@ -1,4 +1,4 @@
-![Realcity-Header]()
+![Realcity-Header](https://github.com/realcity-rp/.github/blob/c63ab1c9599d014477cb66439cccd6551d31e204/assets/background.png)
 
 # Realcity Roleplay
 
